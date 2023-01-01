@@ -1,0 +1,22 @@
+{
+  "name": "dr-ums",
+  "version": "1.0.1",
+  "description": "A Simple University Management System using Object Oriented Programming",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "dr-ums": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drshahidislam",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^18.11.18"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
